@@ -22,10 +22,8 @@ ProjectPlag integrates with the Dolos Source Code Plagiarism Detection API, enab
 
 ## Benefits
 
-### For Students
-- Encourages exploration and undertaking of unique project endeavors.
+- For Students: Encourages exploration and undertaking of unique project endeavors.
 
-### For Educators
-- Provides tools to facilitate peer learning and collaboration.
+- For Educators: Provides tools to facilitate peer learning and collaboration.
 
 With its comprehensive suite of features and robust technology stack, ProjectPlag is poised to be a cornerstone in fostering a culture of innovation and academic excellence within the educational landscape.
